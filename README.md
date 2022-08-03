@@ -10,9 +10,10 @@
 1) Jaccard Score : jac <br>
 2) Dice Score : dic <br>
 3) False Positive Ratio: FPR <br>
-4) Partition Entropy: PE <br>
-5) Partition Coefficient : PC <br>
-6) Average Segmentation Accuracy : Acc 
+4) False Negative Ratio: FNR <br>
+5) Partition Entropy: PE <br>
+6) Partition Coefficient : PC <br>
+7) Average Segmentation Accuracy : Acc 
 
 Further in the directory, users can find another directory with the name “Test_Img” which further contains directories named RN and GN which contains images with Rician and Gaussian Noises respectively. The Test_Img also contains a file named “NewImg2.tiff” which is the ground truth. 
 
